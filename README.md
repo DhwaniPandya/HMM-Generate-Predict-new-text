@@ -25,5 +25,6 @@ We have implemented this project in 3 parts.
 3. We predicted the text based on the input sequence given with the viterbi algorithm of hmm. 
 4. Have used different data sets for both algortihms
 
+Refrences :https://web.stanford.edu/class/cs224s/lectures/224s.17.lec3.pdf
 
 Note : I(Dhwani Pandya) have discussed briefly on this with Ronald Andrew and he recommended me to refer a link to clear my understanding.
