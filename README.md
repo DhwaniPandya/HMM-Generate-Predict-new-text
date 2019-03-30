@@ -1,5 +1,5 @@
 # HMM-Generate-Predict-new-text
-
+This is a combined project by Dhwani Pandya and Prashanthi Mallojula
 Problem statement :
 Hidden Mark.. M..
 Probabilistic states and transitions
@@ -22,5 +22,8 @@ We have implemented this project in 3 parts.
 1. We have generated new text sequence based on input sequence with which we trained our model with markov model,
    making use of markov chain property.
 2. We have generated new text using forward-backward approach of hidden markov model.
-3. We predicted the text based on the input sequence given with the viterbi algorithm of hmm.
+3. We predicted the text based on the input sequence given with the viterbi algorithm of hmm. 
+4. Have used different data sets for both algortihms
+
+
 Note : I(Dhwani Pandya) have discussed briefly on this with Ronald Andrew and he recommended me to refer a link to clear my understanding.
